@@ -1,8 +1,3 @@
-# Sinifi-Gecme-Durumu
-Java Sinifi Gecme Durumu
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
