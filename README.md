@@ -3,10 +3,11 @@ Java Sinifi Gecme Durumu
 
 www.patika.dev
 
+
 import java.util.Scanner;
 
 public class Main {
-    
+
     public static void main(String[] args) {
         
         int mat, fizik, turkce, kimya, muzik, total = 0;
